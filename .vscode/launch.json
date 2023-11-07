@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Dart (dart/lab01/hello-world.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "dart/lab01/hello-world.dart"
+        }
+    ]
+}
